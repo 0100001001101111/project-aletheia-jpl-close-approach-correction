@@ -1,0 +1,9 @@
+{
+  "source": "https://ssd-api.jpl.nasa.gov/cad.api",
+  "download_date": "2026-07-23",
+  "requests": 9,
+  "snapshot_sha256": "09dc4dde70babf7f89f55eea5aa1b80194a11dccfb253bad5cc0165394c6c6a3",
+  "audit_file": "pre_fix_audit.json",
+  "reported_violations": 8,
+  "negative_comparisons": 1
+}

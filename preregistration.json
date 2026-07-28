@@ -1,0 +1,53 @@
+{
+  "route_id": "R20",
+  "version": 1,
+  "frozen_at_utc": "2026-07-24T03:40:00Z",
+  "question": "Does the NASA/JPL close-approach table contain replicated hard internal contradictions in distance bounds, gravitational speed ordering, or calendar/JD identity?",
+  "claim_boundary": "A pass is a public-catalog consistency candidate. It is not anomalous asteroid motion or new physics.",
+  "normal_model": "Every row must satisfy dist_min <= dist <= dist_max; encounter speed v_rel cannot be below asymptotic speed v_inf; and the formatted calendar time must agree with Julian date to within the calendar field's one-minute resolution.",
+  "dominant_confound": "Rounding, time standards, limit semantics, or misunderstood API fields can imitate a violation; provider definitions must be checked before promotion.",
+  "dataset": "/data/aletheia/raw-corpora/solar-and-space-weather/neo/neo_close_approaches_full.json",
+  "dataset_sha256": "5b9dab3c146c198a1ebcb24cee3a6c870d9d1f8e764aa21403df7c32f6ff5f1e",
+  "dataset_version": "NASA/JPL SBDB Close Approach Data API v1.5 local snapshot",
+  "unit_of_analysis": "one row with finite dist, dist_min, dist_max, v_rel, v_inf, jd, and parseable cd",
+  "discovery_split": "SHA-256 first byte of des + '|' + jd is even",
+  "confirmation_split": "SHA-256 first byte of des + '|' + jd is odd",
+  "primary_statistics": {
+    "distance_order": "dist_min <= dist <= dist_max with 1e-15 AU tolerance",
+    "speed_order": "v_rel + 1e-9 km/s >= v_inf",
+    "time_identity": "absolute difference between parsed cd UTC and JD-converted UTC <= 60 seconds"
+  },
+  "candidate_gate": {
+    "minimum_complete_rows_each_split": 50000,
+    "minimum_violations_each_split": 1,
+    "minimum_violation_fraction_each_split": 0.00001,
+    "same_violation_type_required_in_both_splits": true,
+    "positive_recovery_minimum": 0.99,
+    "negative_false_positive_maximum": 0.001
+  },
+  "controls": {
+    "positive": "1000 valid synthetic rows, with 100 independently injected bound, speed, or two-minute calendar/JD contradictions; at least 99 of 100 injected rows must be identified",
+    "negative": "1000 valid synthetic rows spanning 1900-2200; at most 1 may be flagged"
+  },
+  "planned_looks": 6,
+  "multiple_testing": "Three frozen invariant types in each of two splits; a candidate requires the same type in both splits. No additional field relation may be promoted under this manifest.",
+  "seeds": {
+    "controls": 20260723
+  },
+  "kill_conditions": [
+    "Control or parser gate fails",
+    "Either split has fewer than 50000 complete rows",
+    "No invariant type independently violates the gate in both splits",
+    "Provider documentation identifies the apparent contradiction as allowed semantics"
+  ],
+  "allowed_alternates": [
+    "A failed invariant may become a documented parser or semantics catch",
+    "Other NEO/fireball questions require a new manifest because predicted close approaches and atmospheric bolides do not share a simple one-to-one normal"
+  ],
+  "forbidden_changes": [
+    "No tolerance changes after target inspection",
+    "No adding invariants post hoc",
+    "No interpreting a catalog contradiction as physical motion",
+    "No unmatched-fireball claim without a separately justified completeness model"
+  ]
+}

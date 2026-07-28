@@ -1,0 +1,112 @@
+{
+  "schema": "aletheia.jpl-r20-pre-fix-audit.v1",
+  "snapshot_download_date": "2026-07-23",
+  "source": "https://ssd-api.jpl.nasa.gov/cad.api",
+  "source_snapshot_sha256": "09dc4dde70babf7f89f55eea5aa1b80194a11dccfb253bad5cc0165394c6c6a3",
+  "note": "Nine frozen candidates were checked. Eight violated the distance-order invariant and were reported to JPL. 2017 VR12 was already consistent and is retained as a negative comparison.",
+  "route_id": "R20",
+  "candidate_count": 9,
+  "current_rows_found": 9,
+  "current_distance_violations": 8,
+  "rows": [
+    {
+      "designation": "367943",
+      "current_row_found": true,
+      "orbit_id": "81",
+      "cd": "2004-Aug-19 12:36",
+      "dist": "0.0081310982915555",
+      "dist_min": "0.00812902089043399",
+      "dist_max": "0.00812913527356741",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "0.00000196301798809"
+    },
+    {
+      "designation": "2019 DP",
+      "current_row_found": true,
+      "orbit_id": "27",
+      "cd": "2019-Feb-23 20:21",
+      "dist": "0.00738445342969852",
+      "dist_min": "0.00737606953754817",
+      "dist_max": "0.00737616588650677",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "0.00000828754319175"
+    },
+    {
+      "designation": "2019 XN3",
+      "current_row_found": true,
+      "orbit_id": "17",
+      "cd": "2019-Dec-14 22:37",
+      "dist": "0.00857111814408225",
+      "dist_min": "0.00856996839206366",
+      "dist_max": "0.00857010978647877",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "0.00000100835760348"
+    },
+    {
+      "designation": "2021 VH2",
+      "current_row_found": true,
+      "orbit_id": "9",
+      "cd": "2021-Nov-11 05:21",
+      "dist": "0.00749719658810921",
+      "dist_min": "0.00749699789583313",
+      "dist_max": "0.00749711828441748",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "7.830369173E-8"
+    },
+    {
+      "designation": "2022 NJ",
+      "current_row_found": true,
+      "orbit_id": "11",
+      "cd": "2022-Jul-15 01:07",
+      "dist": "0.0087569497353399",
+      "dist_min": "0.00875602846779379",
+      "dist_max": "0.00875606520191793",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "8.8453342197E-7"
+    },
+    {
+      "designation": "2018 QE",
+      "current_row_found": true,
+      "orbit_id": "6",
+      "cd": "2024-Oct-12 06:57",
+      "dist": "0.0111948142724519",
+      "dist_min": "0.0111932680490343",
+      "dist_max": "0.0111934204343547",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "0.0000013938380972"
+    },
+    {
+      "designation": "2016 SW3",
+      "current_row_found": true,
+      "orbit_id": "3",
+      "cd": "2016-Sep-26 05:25",
+      "dist": "0.00257821175605187",
+      "dist_min": "0.00257189482763868",
+      "dist_max": "0.0025773666973424",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "8.4505870947E-7"
+    },
+    {
+      "designation": "2017 VR12",
+      "current_row_found": true,
+      "orbit_id": "103",
+      "cd": "2018-Mar-07 07:53",
+      "dist": "0.00966224160823061",
+      "dist_min": "0.00966224052279179",
+      "dist_max": "0.00966224269366998",
+      "current_distance_order_violation": false,
+      "nominal_above_max_au": "0"
+    },
+    {
+      "designation": "2020 OO1",
+      "current_row_found": true,
+      "orbit_id": "17",
+      "cd": "2020-Jul-27 15:44",
+      "dist": "0.00447221128640235",
+      "dist_min": "0.00447176072900021",
+      "dist_max": "0.00447180469819522",
+      "current_distance_order_violation": true,
+      "nominal_above_max_au": "4.0658820713E-7"
+    }
+  ]
+}

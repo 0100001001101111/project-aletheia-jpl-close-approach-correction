@@ -1,0 +1,73 @@
+{
+  "schema": "aletheia.jpl-r20-post-fix-check.v1",
+  "checked_at_utc": "2026-07-28T00:07:09Z",
+  "source": "NASA/JPL SBDB Close Approach Data API",
+  "api": "https://ssd-api.jpl.nasa.gov/cad.api",
+  "invariant": "dist_min <= dist <= dist_max",
+  "objects": [
+    {
+      "designation": "367943",
+      "rows_checked": 34,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    },
+    {
+      "designation": "2019 DP",
+      "rows_checked": 25,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    },
+    {
+      "designation": "2019 XN3",
+      "rows_checked": 17,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    },
+    {
+      "designation": "2021 VH2",
+      "rows_checked": 36,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    },
+    {
+      "designation": "2022 NJ",
+      "rows_checked": 6,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    },
+    {
+      "designation": "2018 QE",
+      "rows_checked": 14,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    },
+    {
+      "designation": "2016 SW3",
+      "rows_checked": 1,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    },
+    {
+      "designation": "2020 OO1",
+      "rows_checked": 31,
+      "expected_event_found": true,
+      "expected_event_valid": true,
+      "violations": 0
+    }
+  ],
+  "summary": {
+    "objects_checked": 8,
+    "objects_passing": 8,
+    "objects_with_violations": 0,
+    "rows_checked": 164
+  },
+  "verifier_sha256": "4347f904b62edc126874ec5edf3cf31a9e8c4b49a707406e52b8b4b585ce31db",
+  "result": "PASS"
+}
