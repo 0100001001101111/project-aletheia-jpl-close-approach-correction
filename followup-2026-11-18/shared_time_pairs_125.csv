@@ -1,0 +1,126 @@
+designation,shared_time_cd,shared_time_jd,bodies,verdict,row_with_wrong_time,horizons_closest_approach_jd,time_difference_min,distance_difference_km
+184266,1934-Feb-11 17:24,2427480.224924958,Venus+Earth,wrong time on one row,Venus,2427480.144835,115.3,102.6
+2005 TK50,2005-Oct-10 03:30,2453653.646034449,Moon+Earth,wrong time on one row,Earth,2453653.648573,3.7,61.6
+2005 UF,2005-Oct-24 03:25,2453667.642537715,Moon+Earth,wrong time on one row,Earth,2453667.646741,6.1,7.6
+2006 BC8,2006-Jan-22 06:37,2453757.775466106,Earth+Moon,wrong time on one row,Earth,2453757.755531,28.7,134.6
+2013 CW129,2013-Feb-18 16:02,2456342.167866044,Moon+Earth,wrong time on one row,Earth,2456342.178470,15.3,230.3
+2013 ED68,2013-Mar-16 02:34,2456367.606768801,Earth+Moon,wrong time on one row,Earth,2456367.608919,3.1,1.4
+2013 RE32,2013-Sep-02 11:39,2456537.985477432,Moon+Earth,wrong time on one row,Earth,2456537.967671,25.6,135.0
+2015 FW117,2015-Apr-01 15:19,2457114.137877335,Earth+Moon,wrong time on one row,Earth,2457114.162449,35.4,572.8
+2015 TQ21,2092-Oct-06 23:38,2485427.484514970,Moon+Earth,wrong time on one row,Earth,2485427.486046,2.2,4.9
+2016 AV64,2016-Jan-01 19:22,2457389.306832306,Earth+Moon,wrong time on one row,Earth,2457389.291793,21.7,108.1
+2016 ET1,2016-Feb-29 01:15,2457447.551985011,Earth+Moon,wrong time on one row,Earth,2457447.535823,23.3,24.4
+2016 JN38,2016-Apr-30 02:30,2457508.604354592,Earth+Moon,wrong time on one row,Earth,2457508.602237,3.0,13.3
+2016 JY5,2016-Apr-30 05:17,2457508.720422850,Earth+Moon,wrong time on one row,Earth,2457508.686992,48.1,154.0
+2017 DD36,2017-Feb-22 15:44,2457807.155800632,Moon+Earth,wrong time on one row,Earth,2457807.135207,29.7,118.9
+2017 DF38,2015-Aug-31 21:51,2457266.410195479,Earth+Moon,wrong time on one row,Earth,2457266.395295,21.5,65.8
+2017 DP109,2017-Mar-03 07:17,2457815.803228164,Moon+Earth,wrong time on one row,Earth,2457815.819754,23.8,146.6
+2017 FX90,2017-Apr-01 19:43,2457845.321361607,Moon+Earth,wrong time on one row,Earth,2457845.327028,8.2,19.5
+2017 SS12,2066-Sep-25 17:42,2475919.237614863,Moon+Earth,wrong time on one row,Earth,2475919.310468,104.9,1240.6
+2017 UT1,2017-Oct-14 08:54,2458040.870585369,Earth+Moon,wrong time on one row,Earth,2458040.839391,44.9,217.3
+2017 WD28,2017-Nov-28 21:09,2458086.380906550,Earth+Moon,wrong time on one row,Earth,2458086.391773,15.6,45.7
+2018 DX1,1903-Sep-14 15:53,2416372.161781006,Earth+Venus,wrong time on one row,Venus,2416371.477867,984.8,5878.9
+2018 KT2,2018-May-23 01:49,2458261.576010413,Earth+Moon,wrong time on one row,Earth,2458261.537374,55.6,429.5
+2018 RE5,2018-Sep-15 03:45,2458376.656081491,Earth+Moon,wrong time on one row,Earth,2458376.657370,1.9,2.6
+2018 RN7,2018-Sep-16 18:18,2458378.262242266,Moon+Earth,wrong time on one row,Earth,2458378.267328,7.3,42.3
+2018 RR1,2018-Sep-03 21:59,2458365.416299719,Earth+Moon,wrong time on one row,Earth,2458365.410135,8.9,7.8
+2018 TH3,2018-Oct-03 11:53,2458394.994953617,Earth+Moon,wrong time on one row,Earth,2458394.969315,36.9,67.2
+2018 VL,2018-Oct-31 06:48,2458422.783536883,Earth+Moon,wrong time on one row,Earth,2458422.780361,4.6,4.1
+2018 YQ2,2084-Jun-11 21:11,2482388.382969297,Earth+Moon,wrong time on one row,Earth,2482388.429662,67.2,211.3
+2019 EU1,2019-Mar-06 07:41,2458548.819946261,Earth+Moon,wrong time on one row,Earth,2458548.815827,5.9,3.0
+2019 KN2,2019-May-22 19:53,2458626.328437665,Moon+Earth,wrong time on one row,Earth,2458626.301689,38.5,19.3
+2019 PS1,2019-Aug-09 17:29,2458705.228160318,Earth+Moon,wrong time on one row,Earth,2458705.215168,18.7,78.7
+2019 SJ,1953-Sep-16 14:48,2434637.116603404,Moon+Earth,wrong time on one row,Earth,2434637.089549,39.0,152.5
+2019 SU3,2019-Sep-24 04:19,2458750.679937015,Earth+Moon,wrong time on one row,Earth,2458750.668778,16.1,3.3
+2019 YW2,2019-Dec-20 12:43,2458838.029543499,Earth+Moon,wrong time on one row,Earth,2458838.026694,4.1,4.1
+2020 BH10,2020-Jan-17 04:50,2458865.701251954,Moon+Earth,wrong time on one row,Earth,2458865.673412,40.1,444.3
+2020 HT3,2020-Apr-16 19:05,2458956.295241266,Moon+Earth,wrong time on one row,Earth,2458956.212025,119.8,462.4
+2020 HT7,2020-Apr-27 04:43,2458966.696676504,Moon+Earth,wrong time on one row,Earth,2458966.676675,28.8,40.2
+2020 JQ1,2039-May-12 11:17,2465920.970135257,Moon+Earth,wrong time on one row,Earth,2465920.976150,8.7,43.4
+2020 TD6,2020-Oct-19 13:59,2459142.082426865,Earth+Moon,wrong time on one row,Earth,2459142.151412,99.3,663.2
+2020 TH6,1946-Oct-18 13:10,2432112.048875372,Moon+Earth,wrong time on one row,Earth,2432112.037315,16.6,12.1
+2020 UB,2020-Oct-20 05:16,2459142.719605755,Moon+Earth,wrong time on one row,Earth,2459142.734353,21.2,125.8
+2020 VP4,2003-Nov-22 13:11,2452966.049342067,Earth+Moon,wrong time on one row,Earth,2452966.034653,21.2,9.9
+2020 WS1,2020-Nov-20 18:05,2459174.253197789,Earth+Moon,wrong time on one row,Earth,2459174.288442,50.8,712.8
+2021 AR2,2021-Jan-05 22:05,2459220.419875517,Moon+Earth,wrong time on one row,Earth,2459220.397082,32.8,155.8
+2021 AZ5,2021-Jan-14 09:54,2459228.912512277,Moon+Earth,wrong time on one row,Earth,2459228.918764,9.0,15.0
+2021 GM3,2021-Apr-19 13:54,2459324.078966314,Moon+Earth,wrong time on one row,Earth,2459324.106876,40.2,94.8
+2021 QB3,2021-Sep-03 01:08,2459460.547139717,Earth+Moon,wrong time on one row,Earth,2459460.540662,9.3,10.2
+2021 RA,2021-Sep-01 12:26,2459459.018278556,Earth+Moon,wrong time on one row,Earth,2459459.014505,5.4,6.2
+2021 RA8,2021-Sep-10 19:47,2459468.324214200,Moon+Earth,wrong time on one row,Earth,2459468.300246,34.5,236.8
+2021 TE3,2021-Sep-26 22:29,2459484.436670200,Earth+Moon,wrong time on one row,Earth,2459484.416436,29.1,78.4
+2021 UB2,2021-Oct-27 12:45,2459515.031502102,Earth+Moon,wrong time on one row,Earth,2459515.024418,10.2,39.3
+2021 VH,2036-Apr-04 18:38,2464788.276581043,Earth+Moon,wrong time on one row,Earth,2464788.327264,73.0,308.6
+2021 VP22,2021-Nov-05 08:06,2459523.837749620,Moon+Earth,wrong time on one row,Earth,2459523.834159,5.2,0.6
+2021 VZ8,2076-Nov-05 10:34,2479612.940624027,Moon+Earth,wrong time on one row,Earth,2479613.015684,108.1,308.5
+2021 WS4,2021-Nov-29 07:18,2459547.804376465,Moon+Earth,wrong time on one row,Earth,2459547.769957,49.6,44.3
+2021 XN2,2021-Dec-07 14:54,2459556.120880408,Moon+Earth,wrong time on one row,Earth,2459556.129057,11.8,15.2
+2022 EK4,1978-Mar-16 02:21,2443583.597715406,Moon+Earth,wrong time on one row,Earth,2443583.578872,27.1,57.3
+2022 JV1,2022-May-12 00:37,2459711.525841211,Moon+Earth,wrong time on one row,Earth,2459711.558431,46.9,199.1
+2022 UD13,2022-Oct-30 21:09,2459883.381403406,Moon+Earth,wrong time on one row,Earth,2459883.394029,18.2,129.7
+2022 UF9,1975-Oct-25 13:14,2442711.051066694,Moon+Earth,wrong time on one row,Earth,2442711.042473,12.4,7.8
+2022 UM1,2022-Oct-14 02:06,2459866.587377628,Earth+Moon,wrong time on one row,Earth,2459866.554991,46.6,337.7
+2022 VG,2022-Oct-31 14:23,2459884.099273470,Moon+Earth,wrong time on one row,Earth,2459884.098274,1.4,0.4
+2022 YF6,2022-Dec-27 14:39,2459941.110743555,Moon+Earth,wrong time on one row,Earth,2459941.096119,21.1,305.5
+2022 YR,2022-Dec-14 16:12,2459928.174957782,Moon+Earth,wrong time on one row,Earth,2459928.153710,30.6,449.0
+2022 YY3,2022-Dec-27 04:39,2459940.693690770,Earth+Moon,wrong time on one row,Earth,2459940.745948,75.2,735.7
+2023 GQ1,1991-Apr-22 13:12,2448369.049670945,Earth+Moon,wrong time on one row,Earth,2448368.937441,161.6,112.9
+2023 HE4,2023-Apr-22 17:19,2460057.221339073,Earth+Moon,wrong time on one row,Earth,2460057.192148,42.0,425.6
+2023 HH3,2023-Apr-25 17:27,2460060.227121347,Earth+Moon,wrong time on one row,Earth,2460060.228951,2.6,5.5
+2023 KX3,1969-May-28 18:07,2440370.254681971,Moon+Earth,wrong time on one row,Earth,2440370.192896,89.0,129.4
+2023 TW26,2023-Oct-22 13:30,2460240.062843673,Earth+Moon,wrong time on one row,Earth,2460240.067294,6.4,2.6
+2023 UD4,2072-Oct-26 08:01,2478141.834096640,Earth+Moon,wrong time on one row,Earth,2478141.900950,96.3,283.6
+2023 UP2,2023-Oct-21 23:22,2460239.473491884,Moon+Earth,wrong time on one row,Earth,2460239.477113,5.2,2.6
+2023 VK2,1943-Apr-30 16:51,2430845.202119612,Earth+Moon,wrong time on one row,Earth,2430845.198803,4.8,21.3
+2023 WF2,2023-Nov-20 04:41,2460268.694980321,Earth+Moon,wrong time on one row,Earth,2460268.659734,50.8,298.5
+2023 XG1,2023-Dec-02 13:00,2460281.041486961,Moon+Earth,wrong time on one row,Earth,2460280.996971,64.1,905.4
+2023 XZ2,1907-Dec-11 22:20,2417921.430733202,Earth+Moon,wrong time on one row,Earth,2417921.417514,19.0,44.5
+2024 AP2,2024-Jan-19 00:22,2460328.515109823,Earth+Moon,wrong time on one row,Earth,2460328.601649,124.6,621.2
+2024 CS,2024-Feb-01 09:20,2460341.888658120,Moon+Earth,wrong time on one row,Earth,2460341.883432,7.5,28.9
+2024 DP,2024-Feb-07 02:49,2460347.617389625,Moon+Earth,wrong time on one row,Earth,2460347.602983,20.7,20.5
+2024 FP3,2024-Apr-13 17:18,2460414.220952725,Moon+Earth,wrong time on one row,Earth,2460414.262496,59.8,251.3
+2024 HY,2036-Apr-23 18:34,2464807.273431361,Earth+Moon,wrong time on one row,Earth,2464807.313895,58.3,470.6
+2024 JH3,2024-May-03 13:37,2460434.067528202,Moon+Earth,wrong time on one row,Earth,2460434.062915,6.6,17.4
+2024 JT,2024-Apr-30 17:24,2460431.225254267,Earth+Moon,wrong time on one row,Earth,2460431.186497,55.8,216.2
+2024 NS1,2099-Aug-01 22:14,2487917.426551281,Earth+Moon,wrong time on one row,Earth,2487917.486428,86.2,441.3
+2024 RA14,1929-Sep-10 16:15,2425865.177427065,Moon+Earth,wrong time on one row,Earth,2425865.165841,16.7,43.5
+2024 RL8,2024-Sep-11 22:39,2460565.443611351,Earth+Moon,wrong time on one row,Earth,2460565.452298,12.5,115.9
+2024 SG,2024-Sep-25 03:12,2460578.632987012,Earth+Moon,wrong time on one row,Earth,2460578.642942,14.3,26.3
+2024 SP2,2024-Sep-22 12:43,2460576.030089940,Earth+Moon,wrong time on one row,Earth,2460575.996183,48.8,45.1
+2024 SV3,2024-Sep-26 10:34,2460579.940466987,Earth+Moon,wrong time on one row,Earth,2460579.934087,9.2,31.3
+2024 TW8,2024-Oct-11 10:33,2460594.939865327,Earth+Moon,wrong time on one row,Earth,2460594.972750,47.4,704.8
+2024 WK15,2024-Nov-27 13:30,2460642.062293915,Moon+Earth,wrong time on one row,Earth,2460642.060106,3.2,1.3
+2025 BA3,2025-Jan-11 05:31,2460686.729930347,Moon+Earth,wrong time on one row,Earth,2460686.679682,72.4,400.1
+2025 BM6,2039-Jan-27 07:37,2465815.817594415,Moon+Earth,wrong time on one row,Earth,2465815.935640,170.0,1344.6
+2025 DF8,2078-Mar-08 07:15,2480100.802176334,Earth+Moon,wrong time on one row,Earth,2480100.830279,40.5,61.9
+2025 DW2,2025-Feb-19 13:44,2460726.072401755,Earth+Moon,wrong time on one row,Earth,2460726.065933,9.3,20.8
+2025 LW,2052-Jun-02 01:13,2470690.550656757,Earth+Moon,wrong time on one row,Earth,2470690.594496,63.1,441.8
+2025 RG,2025-Aug-31 07:02,2460918.793160485,Earth+Moon,wrong time on one row,Earth,2460918.788968,6.0,12.6
+2025 RQ2,2025-Sep-12 16:27,2460931.185308265,Earth+Moon,wrong time on one row,Earth,2460931.182108,4.6,10.9
+2025 SM6,1983-Sep-24 16:29,2445602.186577945,Moon+Earth,wrong time on one row,Earth,2445602.171749,21.4,109.9
+2025 SQ4,2069-Sep-17 20:23,2477007.349307707,Moon+Earth,wrong time on one row,Earth,2477007.358203,12.8,27.6
+2025 TQ10,1996-Oct-23 09:05,2450379.878334326,Moon+Earth,wrong time on one row,Earth,2450379.864948,19.3,120.1
+2025 UE9,2025-Oct-30 15:43,2460979.154603499,Earth+Moon,wrong time on one row,Earth,2460979.172646,26.0,558.2
+2025 XH2,1924-Jun-22 15:50,2423959.159545864,Earth+Venus,wrong time on one row,Venus,2423958.683260,685.9,4196.0
+2025 XK1,2025-Dec-12 03:30,2461021.645597931,Earth+Moon,wrong time on one row,Earth,2461021.595997,71.4,167.4
+2025 YE6,2025-Dec-25 17:30,2461035.229066770,Moon+Earth,wrong time on one row,Earth,2461035.218698,14.9,183.1
+2025 YW4,2025-Dec-28 05:33,2461037.730916069,Earth+Moon,wrong time on one row,Earth,2461037.746477,22.4,44.5
+2026 DH14,2026-Feb-24 23:17,2461096.470411265,Earth+Moon,wrong time on one row,Earth,2461096.464583,8.4,30.4
+2026 KW,2026-May-25 14:29,2461186.103664926,Moon+Earth,wrong time on one row,Earth,2461186.108474,6.9,22.1
+2026 MC2,1979-Jun-14 22:34,2444039.440565771,Moon+Earth,wrong time on one row,Earth,2444039.353926,124.8,236.8
+2002 VX91,1904-Oct-31 07:43,2416784.821767556,Earth+Moon,could not settle,,,,
+2011 TO,2044-Sep-27 14:07,2467886.088520227,Moon+Earth,could not settle,,,,
+2014 WA366,2054-Nov-12 22:23,2471584.432582504,Moon+Earth,could not settle,,,,
+2018 LE1,1940-May-29 00:04,2429778.502896803,Earth+Moon,could not settle,,,,
+2021 AD4,1932-Jan-08 05:53,2426714.745114021,Earth+Moon,could not settle,,,,
+2022 NR,1959-Jul-11 14:18,2436761.095598029,Earth+Moon,could not settle,,,,
+2023 PZ,1998-Aug-11 01:04,2451036.544619064,Earth+Moon,could not settle,,,,
+2023 RK44,1993-Apr-16 14:44,2449094.113696926,Earth+Moon,could not settle,,,,
+2024 UO4,2067-Oct-28 06:00,2476316.749986021,Moon+Earth,could not settle,,,,
+367789,2040-Feb-04 08:29,2466188.853576250,Moon+Earth,could not settle,,,,
+536531,2035-Oct-06 08:39,2464606.860364201,Moon+Earth,could not settle,,,,
+2020 AD,2020-Jan-02 09:12,2458850.883299555,Earth+Moon,both rows correct,,,,
+2023 JA3,2023-May-12 02:51,2460076.619004287,Moon+Earth,both rows correct,,,,
+2024 CE4,2024-Feb-15 19:33,2460356.314638991,Earth+Moon,both rows correct,,,,
+2025 LE,2004-May-25 04:26,2453150.685022518,Earth+Moon,both rows correct,,,,
+2025 XL6,2097-Dec-10 21:58,2487318.415015542,Moon+Earth,both rows correct,,,,

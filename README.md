@@ -76,3 +76,17 @@ Full public finding: https://projectaletheia.org/findings?view=supported
 
 Official API documentation:
 https://ssd-api.jpl.nasa.gov/doc/cad.html
+
+## November 18 follow-up on repeated times
+
+In July I found eight close-approach entries whose reported distances fell outside their own limits. JPL confirmed the software issue on July 27, 2026 and I checked the eight corrected entries.
+
+In November I sent JPL 125 pairs where the same asteroid had exactly the same closest-approach time listed for two bodies. JPL confirmed on November 18, 2026 that it had updated all 125 cases. That morning both entries were present in 124 pairs and every one showed different times. Only the Earth entry came back for 2023 XZ2 in December 1907.
+
+I had flagged one time in 109 pairs. Of the 108 that still had both entries, 96 flagged times landed within a minute of the earlier Horizons estimate. Twelve fell farther away. The fifth column of the pairs file records the original verdict for each pair. These tests describe the public table. They establish nothing about changes in the motion of the asteroids.
+
+The [November evidence](followup-2026-11-18/) includes the original pairs, the observed report and all the raw API replies. The report uses relative paths for this release. Each raw file keeps the SHA-256 recorded by the checker. To compare with today's table, run the following from the repository root and use a fresh output directory. The live table can change again.
+
+```sh
+python3 -I followup-2026-11-18/recheck.py followup-2026-11-18/shared_time_pairs_125.csv live new-check new-check/report.json
+```
